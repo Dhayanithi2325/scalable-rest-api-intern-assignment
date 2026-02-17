@@ -1,4 +1,4 @@
-# Advanced Backend Intern Assignment v2
+# Advanced Backend Intern Assignment 
 
 ## Features
 - JWT Authentication (Access + Refresh Tokens)
